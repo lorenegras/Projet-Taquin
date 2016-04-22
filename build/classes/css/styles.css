@@ -1,0 +1,24 @@
+.anchorpane{
+    -fx-background-color: #FF0066;
+}
+
+.titre{
+   -fx-padding:10;
+   -fx-background-color: #66CC33;
+   -fx-font-weight: bold;
+}
+
+.button{
+    -fx-padding:10px;
+    -fx-background-color: #66CC33;
+}
+
+.button:hover{
+    -fx-background-color: #669900;
+}
+
+.box{
+  
+    -fx-padding:2px;
+}
+
